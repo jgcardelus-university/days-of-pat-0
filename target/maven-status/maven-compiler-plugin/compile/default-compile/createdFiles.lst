@@ -1,0 +1,12 @@
+com/jgcardelus/exercise/service/impl/UserServiceImpl.class
+com/jgcardelus/exercise/repository/UserRepository.class
+com/jgcardelus/exercise/ExerciseApplication.class
+com/jgcardelus/exercise/service/impl/DocumentServiceImpl.class
+com/jgcardelus/exercise/service/UserService.class
+com/jgcardelus/exercise/controller/DocumentController.class
+com/jgcardelus/exercise/repository/DocumentRepository.class
+com/jgcardelus/exercise/models/UserModels.class
+com/jgcardelus/exercise/controller/UserController.class
+com/jgcardelus/exercise/service/DocumentService.class
+com/jgcardelus/exercise/models/DocumentModels.class
+com/jgcardelus/exercise/join/UserDocumentJoin.class
